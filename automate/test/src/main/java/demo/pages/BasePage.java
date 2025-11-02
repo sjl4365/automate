@@ -1,4 +1,4 @@
-//src/main/java/demo/pages/BasePage.java
+
 package demo.pages;
 import java.time.Duration;
 import org.openqa.selenium.By;
