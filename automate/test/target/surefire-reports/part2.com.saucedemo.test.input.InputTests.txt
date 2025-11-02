@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: part2.com.saucedemo.test.input.InputTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.998 s -- in part2.com.saucedemo.test.input.InputTests
